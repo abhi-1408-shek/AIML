@@ -1,2 +1,2 @@
 # Namaste-Neural
-REPOSITORY MADE TO STAY CALM AND NOT GET OVERWHELMED
+ALL THE DATASETS ARE TAKEN FROM : UC Irvine Machine Learning Repository(https://archive.ics.uci.edu)
